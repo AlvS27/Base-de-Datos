@@ -1,0 +1,4 @@
+ID_Proveedor,Nombre,Telefono,Direccion,Correo,RFC
+1,Carnitas el Carnoso,664 999 1122,Calle Carniceria,carnoso@proveedor.com,CSN990101AB1
+2,Tortillones,664 888 2211,Calle Molino,tortillones@proveedor.com,TET880202BC2
+3,PEPSI,664 777 3311,Calle Fabrica,pepsi@proveedor.com,RDP770303CD3

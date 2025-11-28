@@ -1,0 +1,4 @@
+ID_MetodoPago,NombreMetodo
+1,Efectivo
+2,Tarjeta
+3,Transferencia

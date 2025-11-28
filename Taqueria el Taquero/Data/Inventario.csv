@@ -1,0 +1,6 @@
+ID_Inventario,ID_Producto,Cantidad_Disponible,Punto_Reorden,Ultima_Actualizacion
+1,1,200,50,2025-01-01
+2,2,180,50,2025-01-02
+3,3,90,20,2025-01-03
+4,4,300,100,2025-01-04
+4,4,70,80,2025-01-04

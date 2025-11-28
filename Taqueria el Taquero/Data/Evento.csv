@@ -1,0 +1,3 @@
+ID_Evento,Fecha_Evento,ID_Pedido,Tipo_Evento,Cantidad_Personas
+1,2025-02-01 20:00:00,1,Cumpleaños,10
+2,2025-02-05 18:30:00,3,Familiar,6
